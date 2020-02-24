@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42a42b2e-ac29-430f-9c12-e4e59f49fc3b" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.cache/54/4b2d29543bfcf8c8986e550183a764.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/54/4b2d29543bfcf8c8986e550183a764.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/test.e98b79dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test.e98b79dd.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +37,7 @@
       <updated>1582562071032</updated>
       <workItem from="1582562073570" duration="854000" />
       <workItem from="1582562961536" duration="210000" />
-      <workItem from="1582563204337" duration="354000" />
+      <workItem from="1582563204337" duration="685000" />
     </task>
     <task id="LOCAL-00001" summary="增加速度按钮">
       <created>1582562174814</created>
@@ -72,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582563256448</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="style.css bug修复">
+      <created>1582563679259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582563679259</updated>
+    </task>
+    <task id="LOCAL-00006" summary="style.css bug修复">
+      <created>1582563756208</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582563756208</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,13 +91,14 @@
     <MESSAGE value="增加速度按钮" />
     <MESSAGE value="增加暂停" />
     <MESSAGE value="展示test.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="展示test.html" />
+    <MESSAGE value="style.css bug修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="style.css bug修复" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="14" key="CommitChangelistDialog2" timestamp="1582563735853">
+    <state x="341" y="14" key="CommitChangelistDialog2" timestamp="1582563755480">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="341" y="14" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1582563735853" />
+    <state x="341" y="14" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1582563755480" />
     <state x="93" y="93" width="1255" height="735" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582562986865">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
