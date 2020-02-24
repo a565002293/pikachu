@@ -1,6 +1,45 @@
-const string = `.skin *{box-sizing: border-box;margin: 0;padding: 0;}
-.skin *::before, .skin *::after{box-sizing: border-box;}
+const string = `
 
+.skin *{box-sizing: border-box;margin: 0;padding: 0;}
+.skin *::before, .skin *::after{box-sizing: border-box;}
+* {box-sizing: border-box;}
+  *::before, *::after {box-sizing: border-box;}
+  #buttons {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  #buttons > button {
+    margin-bottom: 10px;
+    padding: 4px 8px;
+  }
+  #demo2 {
+    display: none;
+  }
+  #demo {
+    position: fixed;
+    height: 50vh;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: 1px solid red;
+    overflow-y: auto;
+  }
+  #demo::-webkit-scrollbar {
+    display: none;
+  }
+  #html {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50vh;
+  }
 .skin{
   background: #ffe600;
   min-height: 50vh;
