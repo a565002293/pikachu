@@ -108,7 +108,7 @@ body{
   transform: rotate(-15deg) translateX(-53px);
 }
 .mouth .up .lip.right{
-  border-radius: 0 0 50px 0px;
+  border-radius: 0 0 50px 0;
   transform: rotate(15deg) translateX(53px);
 }
 .mouth .up .lip::before{
