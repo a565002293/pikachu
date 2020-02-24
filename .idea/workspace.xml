@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42a42b2e-ac29-430f-9c12-e4e59f49fc3b" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/67/405c08016731016c4fdb84ae6dc18a.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/67/405c08016731016c4fdb84ae6dc18a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pikachu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/test.e98b79dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test.e98b79dd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/test.e98b79dd.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test.e98b79dd.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/test.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/test.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582562071032</updated>
-      <workItem from="1582562073570" duration="494000" />
+      <workItem from="1582562073570" duration="854000" />
+      <workItem from="1582562961536" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="增加速度按钮">
       <created>1582562174814</created>
@@ -53,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582562303612</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="展示test.html">
+      <created>1582562665260</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582562665260</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,12 +81,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加速度按钮" />
     <MESSAGE value="增加暂停" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加暂停" />
+    <MESSAGE value="展示test.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="展示test.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="14" key="CommitChangelistDialog2" timestamp="1582562303097">
+    <state x="341" y="14" key="CommitChangelistDialog2" timestamp="1582562664748">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="341" y="14" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1582562303097" />
+    <state x="341" y="14" key="CommitChangelistDialog2/0.0.1440.920@0.0.1440.920" timestamp="1582562664748" />
+    <state x="93" y="93" width="1255" height="735" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582562986865">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="93" y="93" width="1255" height="735" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1440.920@0.0.1440.920" timestamp="1582562986865" />
   </component>
 </project>

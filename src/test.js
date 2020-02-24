@@ -3,7 +3,7 @@ import string from './css.js'
 
 const player = {
   id: undefined,
-  time: 150,
+  time: 100,
   ui: {
     demo: document.querySelector('#demo'),
     demo2: document.querySelector('#demo2')
@@ -14,7 +14,6 @@ const player = {
     '#btnSlow': 'slow',
     '#btnNormal': 'normal',
     '#btnFast': 'fast'
-
   },
   n: 1,
   init: () => {
@@ -55,7 +54,7 @@ const player = {
   },
   normal: () => {
     player.pause()
-    player.time = 150
+    player.time = 100
     player.play()
   },
   fast: () => {
